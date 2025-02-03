@@ -16,7 +16,6 @@ def division (x,y):
         return "Error! Division by zero is not allowed."
     else:
         return x/y
-# Main function
 def calculator():
     print("Select operation:")
     print("1. Add")
